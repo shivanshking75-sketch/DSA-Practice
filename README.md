@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
+| [0214-shortest-palindrome](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 ## Tree
@@ -94,4 +95,28 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0214-shortest-palindrome) |
+## Z Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
