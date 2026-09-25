@@ -41,6 +41,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0336-palindrome-pairs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0336-palindrome-pairs) |
 | [0587-erect-the-fence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0587-erect-the-fence) |
+| [0835-image-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0835-image-overlap) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Hash Table
@@ -154,4 +155,8 @@
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->
