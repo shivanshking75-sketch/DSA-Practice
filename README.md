@@ -7,6 +7,7 @@
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0214-shortest-palindrome](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0336-palindrome-pairs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0336-palindrome-pairs) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 ## Tree
 |  |
@@ -37,6 +38,7 @@
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0330-patching-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0334-increasing-triplet-subsequence) |
+| [0336-palindrome-pairs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0336-palindrome-pairs) |
 | [0587-erect-the-fence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0587-erect-the-fence) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -44,6 +46,7 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
+| [0336-palindrome-pairs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0336-palindrome-pairs) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Search
@@ -95,6 +98,7 @@
 |  |
 | ------- |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
+| [0336-palindrome-pairs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0336-palindrome-pairs) |
 ## Memoization
 |  |
 | ------- |
@@ -111,6 +115,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0214-shortest-palindrome) |
+| [0336-palindrome-pairs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0336-palindrome-pairs) |
 ## Manacher
 |  |
 | ------- |
