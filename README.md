@@ -51,6 +51,7 @@
 | [0835-image-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0835-image-overlap) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3525-find-x-value-of-array-ii) |
@@ -106,6 +107,7 @@
 | [0587-erect-the-fence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0587-erect-the-fence) |
 | [0836-rectangle-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3524-find-x-value-of-array-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -216,4 +218,16 @@
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3525-find-x-value-of-array-ii) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
