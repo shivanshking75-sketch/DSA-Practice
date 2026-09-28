@@ -1,19 +1,12 @@
 class Solution {
 public:
-    int maxDepth(std::string s) {
-        int depth = 0;
-        int r = 0;
-        for (char c : s) {
-            if (c == ')') {
-                depth--;
-                continue;
-            }
-            // Digits and operators
-            if (c != '(') continue;
-            depth++;
-            // New max only possible after '('
-            if (depth > r) r = depth;
+    int maxDepth(string s) {
+        int ans = 0 ;
+        int depth = 0 ;
+        for(char ch :s){
+            depth += (ch == '(') - (ch == ')');
+            ans = max(ans , depth);
         }
-        return r;
+        return ans; 
     }
 };
