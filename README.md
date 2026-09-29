@@ -58,6 +58,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3903-smallest-stable-index-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3903-smallest-stable-index-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
 ## Greedy
 |  |
@@ -224,6 +227,7 @@
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3525-find-x-value-of-array-ii) |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -240,4 +244,12 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+## Divide and Conquer
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 <!---LeetCode Topics End-->
