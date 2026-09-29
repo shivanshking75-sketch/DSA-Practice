@@ -42,6 +42,7 @@
 | ------- |
 | [0118-pascals-triangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0330-patching-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0334-increasing-triplet-subsequence) |
@@ -60,6 +61,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0336-palindrome-pairs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0336-palindrome-pairs) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
@@ -230,4 +232,8 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
