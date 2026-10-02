@@ -77,6 +77,7 @@
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0299-bulls-and-cows](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0336-palindrome-pairs) |
+| [0398-random-pick-index](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0398-random-pick-index) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -130,6 +131,7 @@
 | ------- |
 | [0263-ugly-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0263-ugly-number) |
 | [0396-rotate-function](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0396-rotate-function) |
+| [0398-random-pick-index](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0398-random-pick-index) |
 | [0587-erect-the-fence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0587-erect-the-fence) |
 | [0836-rectangle-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -289,4 +291,12 @@
 |  |
 | ------- |
 | [0397-integer-replacement](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0397-integer-replacement) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0398-random-pick-index) |
+## Randomized
+|  |
+| ------- |
+| [0398-random-pick-index](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0398-random-pick-index) |
 <!---LeetCode Topics End-->
