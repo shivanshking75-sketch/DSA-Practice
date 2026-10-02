@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0214-shortest-palindrome](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0214-shortest-palindrome) |
@@ -108,6 +109,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0118-pascals-triangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
@@ -133,6 +135,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 ## Stack
@@ -224,6 +227,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
