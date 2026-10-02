@@ -90,6 +90,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0400-nth-digit](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0400-nth-digit) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Sliding Window
 |  |
@@ -136,6 +137,7 @@
 | [0263-ugly-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0263-ugly-number) |
 | [0396-rotate-function](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0398-random-pick-index) |
+| [0400-nth-digit](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0400-nth-digit) |
 | [0587-erect-the-fence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0587-erect-the-fence) |
 | [0836-rectangle-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
