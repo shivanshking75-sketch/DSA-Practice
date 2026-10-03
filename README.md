@@ -26,6 +26,7 @@
 ## Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
@@ -49,6 +50,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 ## Array
@@ -97,6 +99,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0275-h-index-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0275-h-index-ii) |
 | [0400-nth-digit](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0400-nth-digit) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -309,6 +312,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0397-integer-replacement](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0397-integer-replacement) |
 ## Reservoir Sampling
 |  |
