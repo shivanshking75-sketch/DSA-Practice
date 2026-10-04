@@ -14,6 +14,7 @@
 | [0336-palindrome-pairs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0336-palindrome-pairs) |
 | [0392-is-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0399-evaluate-division) |
+| [0678-valid-parenthesis-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -122,6 +123,7 @@
 | [0330-patching-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0397-integer-replacement](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0397-integer-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Longest Increasing Subsequence
@@ -140,6 +142,7 @@
 | [0392-is-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0397-integer-replacement) |
+| [0678-valid-parenthesis-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -173,6 +176,7 @@
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -265,6 +269,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
