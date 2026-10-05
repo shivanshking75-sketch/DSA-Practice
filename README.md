@@ -351,6 +351,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0201-bitwise-and-of-numbers-range](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0397-integer-replacement](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0397-integer-replacement) |
 ## Reservoir Sampling
