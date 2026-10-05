@@ -164,6 +164,7 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0223-rectangle-area) |
+| [0258-add-digits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0263-ugly-number) |
 | [0396-rotate-function](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0398-random-pick-index) |
@@ -303,6 +304,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0258-add-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
@@ -312,6 +314,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
 |  |
