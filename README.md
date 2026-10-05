@@ -11,6 +11,7 @@
 | [0179-largest-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0179-largest-number) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0214-shortest-palindrome](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0214-shortest-palindrome) |
+| [0290-word-pattern](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0336-palindrome-pairs) |
@@ -99,6 +100,7 @@
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
+| [0290-word-pattern](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0336-palindrome-pairs) |
 | [0398-random-pick-index](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0398-random-pick-index) |
