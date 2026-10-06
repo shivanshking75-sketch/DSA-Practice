@@ -82,6 +82,7 @@
 | [0275-h-index-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0275-h-index-ii) |
 | [0303-range-sum-query-immutable](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0304-range-sum-query-2d-immutable) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0312-burst-balloons) |
 | [0330-patching-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0334-increasing-triplet-subsequence) |
@@ -168,6 +169,7 @@
 | [0139-word-break](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0221-maximal-square](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0221-maximal-square) |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0312-burst-balloons) |
 | [0392-is-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0396-rotate-function) |
