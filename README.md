@@ -44,12 +44,14 @@
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0310-minimum-height-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
@@ -388,6 +390,7 @@
 ## Graph Theory
 |  |
 | ------- |
+| [0310-minimum-height-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0399-evaluate-division) |
 ## Shortest Path
 |  |
@@ -417,4 +420,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0139-word-break) |
+## Topological Sort
+|  |
+| ------- |
+| [0310-minimum-height-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0310-minimum-height-trees) |
 <!---LeetCode Topics End-->
