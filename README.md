@@ -6,6 +6,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0139-word-break](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0179-largest-number) |
@@ -70,6 +71,7 @@
 | [0118-pascals-triangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0179-largest-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0179-largest-number) |
 | [0216-combination-sum-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0216-combination-sum-iii) |
@@ -103,6 +105,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0290-word-pattern](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0299-bulls-and-cows) |
@@ -155,6 +158,7 @@
 | [0032-longest-valid-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0118-pascals-triangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
+| [0139-word-break](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0221-maximal-square](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0312-burst-balloons) |
@@ -220,12 +224,14 @@
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0336-palindrome-pairs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0336-palindrome-pairs) |
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0397-integer-replacement](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0397-integer-replacement) |
 ## Rolling Hash
@@ -396,4 +402,8 @@
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1406-stone-game-iii) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
