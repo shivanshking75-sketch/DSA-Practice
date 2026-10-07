@@ -55,6 +55,7 @@
 | [0399-evaluate-division](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 ## Design
 |  |
 | ------- |
@@ -100,6 +101,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1840-maximum-building-height](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1840-maximum-building-height) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -303,6 +305,7 @@
 | [0221-maximal-square](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0835-image-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0835-image-overlap) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Heap (Priority Queue)
 |  |
