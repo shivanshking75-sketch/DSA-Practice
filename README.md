@@ -63,6 +63,7 @@
 | [0200-number-of-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0310-minimum-height-trees) |
+| [0322-coin-change](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
@@ -105,6 +106,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0312-burst-balloons) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
+| [0322-coin-change](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0336-palindrome-pairs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0336-palindrome-pairs) |
@@ -210,6 +212,7 @@
 | [0221-maximal-square](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0221-maximal-square) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0312-burst-balloons) |
+| [0322-coin-change](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0397-integer-replacement) |
@@ -486,4 +489,12 @@
 |  |
 | ------- |
 | [0284-peeking-iterator](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0284-peeking-iterator) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
