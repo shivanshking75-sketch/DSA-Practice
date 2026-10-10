@@ -6,6 +6,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0079-word-search](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
@@ -49,6 +50,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0257-binary-tree-paths](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0257-binary-tree-paths) |
@@ -91,6 +93,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
@@ -249,6 +252,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0079-word-search) |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0257-binary-tree-paths) |
@@ -351,6 +355,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0036-valid-sudoku) |
+| [0079-word-search](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0221-maximal-square) |
 | [0304-range-sum-query-2d-immutable](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0304-range-sum-query-2d-immutable) |
