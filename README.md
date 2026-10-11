@@ -22,6 +22,7 @@
 | [0306-additive-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0306-additive-number) |
 | [0316-remove-duplicate-letters](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0336-palindrome-pairs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0336-palindrome-pairs) |
 | [0392-is-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0394-decode-string) |
@@ -48,6 +49,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 ## Depth-First Search
 |  |
@@ -90,6 +92,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 ## Array
 |  |
@@ -274,6 +277,7 @@
 | [0032-longest-valid-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0155-min-stack) |
 | [0316-remove-duplicate-letters](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0678-valid-parenthesis-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
