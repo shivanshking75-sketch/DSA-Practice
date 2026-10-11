@@ -109,6 +109,7 @@
 | [0275-h-index-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0275-h-index-ii) |
 | [0284-peeking-iterator](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0289-game-of-life) |
 | [0303-range-sum-query-immutable](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -368,6 +369,7 @@
 | [0079-word-search](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0221-maximal-square) |
+| [0289-game-of-life](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0289-game-of-life) |
 | [0304-range-sum-query-2d-immutable](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0304-range-sum-query-2d-immutable) |
 | [0835-image-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0835-image-overlap) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -410,6 +412,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0258-add-digits) |
+| [0289-game-of-life](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0289-game-of-life) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
