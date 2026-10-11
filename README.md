@@ -15,6 +15,7 @@
 | [0214-shortest-palindrome](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [0257-binary-tree-paths](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0273-integer-to-english-words](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0282-expression-add-operators) |
 | [0290-word-pattern](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0290-word-pattern) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0299-bulls-and-cows](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0299-bulls-and-cows) |
@@ -239,6 +240,7 @@
 | [0258-add-digits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0263-ugly-number) |
 | [0273-integer-to-english-words](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0282-expression-add-operators) |
 | [0396-rotate-function](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0400-nth-digit) |
@@ -260,6 +262,7 @@
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0216-combination-sum-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0257-binary-tree-paths) |
+| [0282-expression-add-operators](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0306-additive-number) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 ## Stack
