@@ -120,6 +120,7 @@
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0313-super-ugly-number) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0322-coin-change) |
 | [0330-patching-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0330-patching-array) |
@@ -182,6 +183,7 @@
 | [0275-h-index-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0400-nth-digit](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0400-nth-digit) |
 | [0704-binary-search](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -433,6 +435,7 @@
 ## Segment Tree
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3525-find-x-value-of-array-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Number Theory
@@ -457,10 +460,12 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
@@ -547,4 +552,16 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
