@@ -110,6 +110,7 @@
 | [0216-combination-sum-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0221-maximal-square) |
 | [0275-h-index-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0275-h-index-ii) |
+| [0283-move-zeroes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0284-peeking-iterator](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0284-peeking-iterator) |
 | [0287-find-the-duplicate-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0289-game-of-life) |
@@ -357,6 +358,7 @@
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0392-is-subsequence) |
