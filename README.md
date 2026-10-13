@@ -53,6 +53,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0538-convert-bst-to-greater-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -64,6 +65,7 @@
 | [0310-minimum-height-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0538-convert-bst-to-greater-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [1306-jump-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
@@ -96,6 +98,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0538-convert-bst-to-greater-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 ## Array
 |  |
 | ------- |
@@ -574,4 +577,8 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 <!---LeetCode Topics End-->
