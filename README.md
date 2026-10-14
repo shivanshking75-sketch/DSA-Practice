@@ -137,6 +137,7 @@
 | [0399-evaluate-division](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0414-third-maximum-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0587-erect-the-fence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0587-erect-the-fence) |
+| [0697-degree-of-an-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0835-image-overlap) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -175,6 +176,7 @@
 | [0336-palindrome-pairs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0336-palindrome-pairs) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0398-random-pick-index) |
+| [0697-degree-of-an-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0697-degree-of-an-array) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1345-jump-game-iv](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
