@@ -54,6 +54,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -99,6 +100,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Array
 |  |
 | ------- |
@@ -593,4 +595,5 @@
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
