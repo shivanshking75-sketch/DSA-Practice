@@ -128,6 +128,7 @@
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0318-maximum-product-of-word-lengths](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0318-maximum-product-of-word-lengths) |
 | [0322-coin-change](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0322-coin-change) |
+| [0327-count-of-range-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0327-count-of-range-sum) |
 | [0330-patching-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0336-palindrome-pairs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0336-palindrome-pairs) |
@@ -191,6 +192,7 @@
 | [0287-find-the-duplicate-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0327-count-of-range-sum) |
 | [0400-nth-digit](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0400-nth-digit) |
 | [0704-binary-search](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0704-binary-search) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -450,6 +452,7 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0327-count-of-range-sum) |
 | [3525-find-x-value-of-array-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Number Theory
@@ -475,12 +478,14 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0327-count-of-range-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0327-count-of-range-sum) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Counting
 |  |
@@ -571,14 +576,17 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0327-count-of-range-sum) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0327-count-of-range-sum) |
 ## Treap
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0327-count-of-range-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
