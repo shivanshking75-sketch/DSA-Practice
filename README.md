@@ -134,6 +134,7 @@
 | [0330-patching-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0334-increasing-triplet-subsequence) |
 | [0336-palindrome-pairs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0336-palindrome-pairs) |
+| [0391-perfect-rectangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0391-perfect-rectangle) |
 | [0393-utf-8-validation](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0393-utf-8-validation) |
 | [0396-rotate-function](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0396-rotate-function) |
 | [0399-evaluate-division](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0399-evaluate-division) |
@@ -176,6 +177,7 @@
 | [0290-word-pattern](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0336-palindrome-pairs) |
+| [0391-perfect-rectangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0398-random-pick-index) |
 | [0697-degree-of-an-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0697-degree-of-an-array) |
@@ -278,6 +280,7 @@
 | [0313-super-ugly-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0313-super-ugly-number) |
 | [0382-linked-list-random-node](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0382-linked-list-random-node) |
 | [0390-elimination-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0390-elimination-game) |
+| [0391-perfect-rectangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0391-perfect-rectangle) |
 | [0396-rotate-function](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0400-nth-digit) |
@@ -377,6 +380,7 @@
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0223-rectangle-area) |
+| [0391-perfect-rectangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0391-perfect-rectangle) |
 | [0587-erect-the-fence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0587-erect-the-fence) |
 | [0836-rectangle-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0836-rectangle-overlap) |
 ## Convex Hull
@@ -605,4 +609,8 @@
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0382-linked-list-random-node) |
+## Sweep Line
+|  |
+| ------- |
+| [0391-perfect-rectangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0391-perfect-rectangle) |
 <!---LeetCode Topics End-->
