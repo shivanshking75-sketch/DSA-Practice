@@ -141,6 +141,7 @@
 | [0399-evaluate-division](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0407-trapping-rain-water-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0587-erect-the-fence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0587-erect-the-fence) |
 | [0697-degree-of-an-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0697-degree-of-an-array) |
@@ -211,6 +212,7 @@
 |  |
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0413-arithmetic-slices](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0413-arithmetic-slices) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
@@ -268,6 +270,7 @@
 | [0396-rotate-function](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0410-split-array-largest-sum) |
+| [0413-arithmetic-slices](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0413-arithmetic-slices) |
 | [0678-valid-parenthesis-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1406-stone-game-iii) |
