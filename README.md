@@ -110,6 +110,7 @@
 | [0036-valid-sudoku](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
@@ -201,6 +202,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0275-h-index-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
