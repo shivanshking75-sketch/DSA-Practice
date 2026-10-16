@@ -259,6 +259,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0139-word-break](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0139-word-break) |
@@ -285,6 +286,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0062-unique-paths) |
 | [0223-rectangle-area](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0263-ugly-number) |
@@ -418,6 +420,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0062-unique-paths) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Matrix
 |  |
