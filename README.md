@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -90,6 +91,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0284-peeking-iterator](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0284-peeking-iterator) |
 | [0295-find-median-from-data-stream](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
@@ -100,6 +102,7 @@
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0257-binary-tree-paths](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -339,6 +342,7 @@
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0032-longest-valid-parentheses) |
 | [0155-min-stack](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0316-remove-duplicate-letters](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0394-decode-string) |
@@ -603,6 +607,7 @@
 ## Iterator
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0284-peeking-iterator](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0284-peeking-iterator) |
 ## Knapsack Problem
 |  |
@@ -640,6 +645,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 ## Linked List
