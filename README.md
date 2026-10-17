@@ -154,6 +154,7 @@
 | [0413-arithmetic-slices](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
+| [0494-target-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0494-target-sum) |
 | [0587-erect-the-fence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0587-erect-the-fence) |
 | [0697-degree-of-an-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0704-binary-search) |
@@ -289,6 +290,7 @@
 | [0397-integer-replacement](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0413-arithmetic-slices) |
+| [0494-target-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0494-target-sum) |
 | [0678-valid-parenthesis-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1406-stone-game-iii) |
@@ -337,6 +339,7 @@
 | [0257-binary-tree-paths](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0282-expression-add-operators](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0282-expression-add-operators) |
 | [0306-additive-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0306-additive-number) |
+| [0494-target-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0494-target-sum) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
@@ -614,6 +617,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -658,4 +662,8 @@
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0391-perfect-rectangle) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
