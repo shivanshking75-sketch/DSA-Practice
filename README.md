@@ -127,6 +127,7 @@
 | [0137-single-number-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
+| [0149-max-points-on-a-line](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0149-max-points-on-a-line) |
 | [0179-largest-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0216-combination-sum-iii) |
@@ -197,6 +198,7 @@
 | [0139-word-break](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
+| [0149-max-points-on-a-line](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0149-max-points-on-a-line) |
 | [0290-word-pattern](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0336-palindrome-pairs) |
@@ -308,6 +310,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0062-unique-paths) |
+| [0149-max-points-on-a-line](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0263-ugly-number) |
@@ -420,6 +423,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0223-rectangle-area) |
 | [0391-perfect-rectangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0391-perfect-rectangle) |
 | [0587-erect-the-fence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0587-erect-the-fence) |
@@ -524,10 +528,12 @@
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0149-max-points-on-a-line) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0149-max-points-on-a-line) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Union-Find
 |  |
