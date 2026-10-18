@@ -123,6 +123,7 @@
 | [0119-pascals-triangle-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0119-pascals-triangle-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0130-surrounded-regions) |
+| [0134-gas-station](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0137-single-number-ii) |
 | [0139-word-break](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
@@ -250,6 +251,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0330-patching-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0330-patching-array) |
