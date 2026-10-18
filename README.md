@@ -302,6 +302,7 @@
 | [0312-burst-balloons](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0312-burst-balloons) |
 | [0313-super-ugly-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0322-coin-change) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0392-is-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0396-rotate-function) |
 | [0397-integer-replacement](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0397-integer-replacement) |
@@ -331,6 +332,7 @@
 | [0282-expression-add-operators](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0282-expression-add-operators) |
 | [0313-super-ugly-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0313-super-ugly-number) |
 | [0372-super-pow](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0372-super-pow) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0382-linked-list-random-node](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0382-linked-list-random-node) |
 | [0390-elimination-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0391-perfect-rectangle) |
@@ -625,10 +627,12 @@
 ## Minimax
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1406-stone-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Game Theory
 |  |
 | ------- |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [1406-stone-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
