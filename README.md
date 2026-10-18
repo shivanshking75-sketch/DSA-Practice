@@ -58,6 +58,7 @@
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -113,6 +114,7 @@
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Array
 |  |
 | ------- |
@@ -170,6 +172,7 @@
 | [1306-jump-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1406-stone-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1406-stone-game-iii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -305,6 +308,7 @@
 | [0678-valid-parenthesis-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [1406-stone-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1406-stone-game-iii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -334,6 +338,7 @@
 | [0587-erect-the-fence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0587-erect-the-fence) |
 | [0836-rectangle-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1406-stone-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1406-stone-game-iii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1840-maximum-building-height](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -401,6 +406,7 @@
 | [0139-word-break](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0397-integer-replacement](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0397-integer-replacement) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -460,6 +466,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0062-unique-paths) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Matrix
 |  |
@@ -551,12 +558,14 @@
 | [0130-surrounded-regions](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0399-evaluate-division) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0327-count-of-range-sum) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Merge Sort
 |  |
@@ -676,6 +685,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -703,4 +713,8 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0204-count-primes) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
