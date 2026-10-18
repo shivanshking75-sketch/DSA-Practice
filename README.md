@@ -330,6 +330,7 @@
 | [0273-integer-to-english-words](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0282-expression-add-operators) |
 | [0313-super-ugly-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0313-super-ugly-number) |
+| [0372-super-pow](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0372-super-pow) |
 | [0382-linked-list-random-node](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0382-linked-list-random-node) |
 | [0390-elimination-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0390-elimination-game) |
 | [0391-perfect-rectangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0391-perfect-rectangle) |
@@ -569,6 +570,7 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0327-count-of-range-sum) |
+| [0372-super-pow](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0372-super-pow) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -723,4 +725,12 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
