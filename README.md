@@ -131,6 +131,7 @@
 | [0149-max-points-on-a-line](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0149-max-points-on-a-line) |
 | [0179-largest-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0179-largest-number) |
 | [0200-number-of-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0204-count-primes) |
 | [0216-combination-sum-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0216-combination-sum-iii) |
 | [0221-maximal-square](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0221-maximal-square) |
 | [0275-h-index-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0275-h-index-ii) |
@@ -315,6 +316,7 @@
 | [0062-unique-paths](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0062-unique-paths) |
 | [0149-max-points-on-a-line](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0166-fraction-to-recurring-decimal) |
+| [0204-count-primes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0204-count-primes) |
 | [0223-rectangle-area](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0223-rectangle-area) |
 | [0258-add-digits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0263-ugly-number) |
@@ -508,6 +510,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0204-count-primes) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
@@ -528,6 +531,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Euclidean Algorithm
@@ -687,4 +691,16 @@
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0494-target-sum) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
