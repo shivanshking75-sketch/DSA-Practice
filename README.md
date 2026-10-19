@@ -103,6 +103,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0304-range-sum-query-2d-immutable) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0355-design-twitter) |
 ## Binary Tree
 |  |
@@ -212,6 +213,7 @@
 | [0290-word-pattern](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0290-word-pattern) |
 | [0299-bulls-and-cows](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0299-bulls-and-cows) |
 | [0336-palindrome-pairs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0336-palindrome-pairs) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0355-design-twitter) |
 | [0391-perfect-rectangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
@@ -238,6 +240,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0400-nth-digit](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0400-nth-digit) |
 | [0410-split-array-largest-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0704-binary-search) |
@@ -504,6 +507,7 @@
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -568,6 +572,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0200-number-of-islands) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0399-evaluate-division](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0399-evaluate-division) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Divide and Conquer
@@ -688,6 +693,7 @@
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0327-count-of-range-sum) |
+| [0352-data-stream-as-disjoint-intervals](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 ## Treap
 |  |
 | ------- |
