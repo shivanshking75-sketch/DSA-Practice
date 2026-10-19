@@ -347,6 +347,7 @@
 | [0492-construct-the-rectangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0492-construct-the-rectangle) |
 | [0537-complex-number-multiplication](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0537-complex-number-multiplication) |
 | [0587-erect-the-fence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0587-erect-the-fence) |
+| [0593-valid-square](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1406-stone-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -451,6 +452,7 @@
 | [0223-rectangle-area](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0223-rectangle-area) |
 | [0391-perfect-rectangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0391-perfect-rectangle) |
 | [0587-erect-the-fence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0587-erect-the-fence) |
+| [0593-valid-square](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0836-rectangle-overlap) |
 ## Convex Hull
 |  |
