@@ -10,7 +10,7 @@ public:
             if(nums[mid]==target) return mid;
             if(nums[low]<=nums[mid])
             {
-                if(target>=nums[low]&&target<nums[mid])
+                if(target>=nums[low]&&target<=nums[mid])
                 {
                     high=mid-1;
                 }
@@ -21,7 +21,7 @@ public:
             }
             else
             {
-                if(target<=nums[high]&&target>nums[mid])
+                if(target<=nums[high]&&target>=nums[mid])
                 {
                     low=mid+1;
                 }
