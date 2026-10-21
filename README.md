@@ -50,6 +50,7 @@
 ## Tree
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0079-word-search) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0200-number-of-islands) |
@@ -80,6 +82,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0130-surrounded-regions](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -109,6 +112,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0173-binary-search-tree-iterator](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
@@ -718,6 +722,7 @@
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0355-design-twitter](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0355-design-twitter) |
