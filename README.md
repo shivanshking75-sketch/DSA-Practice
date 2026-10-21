@@ -47,6 +47,7 @@
 | [2129-capitalize-the-title](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2129-capitalize-the-title) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Tree
 |  |
 | ------- |
