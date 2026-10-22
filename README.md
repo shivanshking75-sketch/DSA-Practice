@@ -176,6 +176,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0457-circular-array-loop](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0457-circular-array-loop) |
 | [0494-target-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -232,6 +233,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0398-random-pick-index) |
 | [0457-circular-array-loop](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0457-circular-array-loop) |
+| [0496-next-greater-element-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0697-degree-of-an-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0697-degree-of-an-array) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1345-jump-game-iv](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1345-jump-game-iv) |
@@ -402,6 +404,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -686,6 +689,7 @@
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0496-next-greater-element-i) |
 ## Iterator
 |  |
 | ------- |
