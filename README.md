@@ -183,6 +183,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0565-array-nesting](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0565-array-nesting) |
 | [0587-erect-the-fence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0587-erect-the-fence) |
+| [0598-range-addition-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0598-range-addition-ii) |
 | [0697-degree-of-an-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0697-degree-of-an-array) |
 | [0704-binary-search](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0704-binary-search) |
 | [0835-image-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0835-image-overlap) |
@@ -378,6 +379,7 @@
 | [0564-find-the-closest-palindrome](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0564-find-the-closest-palindrome) |
 | [0587-erect-the-fence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0593-valid-square) |
+| [0598-range-addition-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0598-range-addition-ii) |
 | [0836-rectangle-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0836-rectangle-overlap) |
 | [1406-stone-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
