@@ -252,6 +252,7 @@
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
@@ -350,6 +351,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0069-sqrtx) |
 | [0149-max-points-on-a-line](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0149-max-points-on-a-line) |
 | [0166-fraction-to-recurring-decimal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0166-fraction-to-recurring-decimal) |
 | [0204-count-primes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0204-count-primes) |
@@ -783,4 +785,8 @@
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0372-super-pow) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
