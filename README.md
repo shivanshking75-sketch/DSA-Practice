@@ -62,6 +62,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -82,6 +83,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0565-array-nesting](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0565-array-nesting) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0695-max-area-of-island](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [1306-jump-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
@@ -430,6 +432,7 @@
 | [0394-decode-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0496-next-greater-element-i) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0678-valid-parenthesis-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
