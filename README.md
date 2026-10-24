@@ -66,6 +66,7 @@
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0687-longest-univalue-path](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -88,6 +89,7 @@
 | [0565-array-nesting](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0565-array-nesting) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0685-redundant-connection-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0685-redundant-connection-ii) |
+| [0687-longest-univalue-path](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0687-longest-univalue-path) |
 | [0695-max-area-of-island](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [1306-jump-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
@@ -134,6 +136,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
+| [0687-longest-univalue-path](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -843,4 +846,8 @@
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## DP on Trees
+|  |
+| ------- |
+| [0687-longest-univalue-path](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0687-longest-univalue-path) |
 <!---LeetCode Topics End-->
