@@ -33,6 +33,7 @@
 | [0443-string-compression](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0443-string-compression) |
 | [0537-complex-number-multiplication](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0537-complex-number-multiplication) |
 | [0564-find-the-closest-palindrome](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0564-find-the-closest-palindrome) |
+| [0591-tag-validator](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0591-tag-validator) |
 | [0592-fraction-addition-and-subtraction](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [0678-valid-parenthesis-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0696-count-binary-substrings) |
@@ -440,6 +441,7 @@
 | [0402-remove-k-digits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0591-tag-validator](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0591-tag-validator) |
 | [0678-valid-parenthesis-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
