@@ -87,6 +87,7 @@
 | [0538-convert-bst-to-greater-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0565-array-nesting](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0565-array-nesting) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0685-redundant-connection-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [1306-jump-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
@@ -102,6 +103,7 @@
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
+| [0685-redundant-connection-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1306-jump-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1306-jump-game-iii) |
@@ -648,6 +650,7 @@
 | [0200-number-of-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0399-evaluate-division](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0399-evaluate-division) |
+| [0685-redundant-connection-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Divide and Conquer
@@ -700,6 +703,7 @@
 | ------- |
 | [0310-minimum-height-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0399-evaluate-division) |
+| [0685-redundant-connection-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0685-redundant-connection-ii) |
 ## Shortest Path
 |  |
 | ------- |
