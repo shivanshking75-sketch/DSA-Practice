@@ -48,6 +48,7 @@
 | [1678-goal-parser-interpretation](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1678-goal-parser-interpretation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2129-capitalize-the-title](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2129-capitalize-the-title) |
+| [2409-count-days-spent-together](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -407,6 +408,7 @@
 | [1840-maximum-building-height](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1840-maximum-building-height) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2235-add-two-integers) |
+| [2409-count-days-spent-together](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2409-count-days-spent-together) |
 | [3524-find-x-value-of-array-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
