@@ -82,6 +82,7 @@
 | [0257-binary-tree-paths](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0310-minimum-height-trees) |
+| [0365-water-and-jug-problem](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
@@ -102,6 +103,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0310-minimum-height-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0310-minimum-height-trees) |
 | [0322-coin-change](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0365-water-and-jug-problem) |
 | [0399-evaluate-division](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
@@ -396,6 +398,7 @@
 | [0273-integer-to-english-words](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0282-expression-add-operators) |
 | [0313-super-ugly-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0313-super-ugly-number) |
+| [0365-water-and-jug-problem](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0365-water-and-jug-problem) |
 | [0372-super-pow](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0372-super-pow) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0382-linked-list-random-node](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0382-linked-list-random-node) |
@@ -643,12 +646,14 @@
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0149-max-points-on-a-line) |
+| [0365-water-and-jug-problem](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0365-water-and-jug-problem) |
 | [0592-fraction-addition-and-subtraction](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Greatest Common Divisor
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0149-max-points-on-a-line) |
+| [0365-water-and-jug-problem](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0365-water-and-jug-problem) |
 | [0592-fraction-addition-and-subtraction](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Union-Find
@@ -857,4 +862,12 @@
 |  |
 | ------- |
 | [0687-longest-univalue-path](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0687-longest-univalue-path) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0365-water-and-jug-problem) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [0365-water-and-jug-problem](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0365-water-and-jug-problem) |
 <!---LeetCode Topics End-->
