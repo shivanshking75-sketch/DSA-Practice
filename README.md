@@ -220,6 +220,7 @@
 | [1306-jump-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1406-stone-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1406-stone-game-iii) |
+| [1539-kth-missing-positive-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
@@ -307,6 +308,7 @@
 | [0875-koko-eating-bananas](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1539-kth-missing-positive-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
