@@ -31,6 +31,7 @@
 | [0399-evaluate-division](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0402-remove-k-digits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0402-remove-k-digits) |
 | [0443-string-compression](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0443-string-compression) |
+| [0488-zuma-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0488-zuma-game) |
 | [0537-complex-number-multiplication](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0537-complex-number-multiplication) |
 | [0564-find-the-closest-palindrome](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0564-find-the-closest-palindrome) |
 | [0591-tag-validator](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0591-tag-validator) |
@@ -110,6 +111,7 @@
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
+| [0488-zuma-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0488-zuma-game) |
 | [0685-redundant-connection-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
@@ -386,6 +388,7 @@
 | [0397-integer-replacement](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0413-arithmetic-slices) |
+| [0488-zuma-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0488-zuma-game) |
 | [0494-target-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0600-non-negative-integers-without-consecutive-ones) |
@@ -470,6 +473,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0402-remove-k-digits) |
+| [0488-zuma-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0488-zuma-game) |
 | [0496-next-greater-element-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0591-tag-validator](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0591-tag-validator) |
@@ -514,6 +518,7 @@
 | [0139-word-break](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0140-word-break-ii) |
 | [0397-integer-replacement](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0397-integer-replacement) |
+| [0488-zuma-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0488-zuma-game) |
 | [0509-fibonacci-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0509-fibonacci-number) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
