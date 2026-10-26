@@ -66,6 +66,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0687-longest-univalue-path](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0687-longest-univalue-path) |
@@ -88,6 +89,7 @@
 | [0399-evaluate-division](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0565-array-nesting](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0565-array-nesting) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -144,6 +146,7 @@
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0404-sum-of-left-leaves) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0687-longest-univalue-path](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
@@ -840,6 +843,7 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0173-binary-search-tree-iterator) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
