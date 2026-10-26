@@ -95,6 +95,7 @@
 | [0695-max-area-of-island](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1306-jump-game-iii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -116,6 +117,7 @@
 | [1306-jump-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Design
 |  |
 | ------- |
@@ -244,6 +246,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -593,6 +596,7 @@
 | [1254-number-of-closed-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -685,6 +689,7 @@
 | [0695-max-area-of-island](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [1254-number-of-closed-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Divide and Conquer
 |  |
 | ------- |
