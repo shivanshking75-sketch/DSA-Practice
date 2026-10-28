@@ -259,6 +259,7 @@
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3903-smallest-stable-index-i) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -412,6 +413,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Math
 |  |
 | ------- |
@@ -619,6 +621,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -749,6 +752,7 @@
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Reservoir Sampling
 |  |
 | ------- |
