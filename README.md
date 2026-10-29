@@ -233,6 +233,7 @@
 | [0697-degree-of-an-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0697-degree-of-an-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0704-binary-search) |
+| [0794-valid-tic-tac-toe-state](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0794-valid-tic-tac-toe-state) |
 | [0835-image-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -636,6 +637,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0498-diagonal-traverse](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0695-max-area-of-island](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0695-max-area-of-island) |
+| [0794-valid-tic-tac-toe-state](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0794-valid-tic-tac-toe-state) |
 | [0835-image-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
