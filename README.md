@@ -215,6 +215,7 @@
 | [0413-arithmetic-slices](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0457-circular-array-loop](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0457-circular-array-loop) |
 | [0491-non-decreasing-subsequences](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0494-target-sum) |
@@ -416,6 +417,7 @@
 | [0397-integer-replacement](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0413-arithmetic-slices) |
+| [0446-arithmetic-slices-ii-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0488-zuma-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0488-zuma-game) |
 | [0494-target-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0509-fibonacci-number) |
