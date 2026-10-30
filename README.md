@@ -456,6 +456,7 @@
 | [0396-rotate-function](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0396-rotate-function) |
 | [0398-random-pick-index](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0400-nth-digit) |
+| [0445-add-two-numbers-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
 | [0479-largest-palindrome-product](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0483-smallest-good-base) |
 | [0492-construct-the-rectangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0492-construct-the-rectangle) |
@@ -506,6 +507,7 @@
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0402-remove-k-digits) |
+| [0445-add-two-numbers-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
 | [0488-zuma-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0488-zuma-game) |
 | [0496-next-greater-element-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -902,6 +904,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0160-intersection-of-two-linked-lists) |
 | [0355-design-twitter](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
 ## Sweep Line
 |  |
 | ------- |
