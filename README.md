@@ -743,6 +743,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0191-number-of-1-bits) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0327-count-of-range-sum) |
 | [0372-super-pow](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0372-super-pow) |
@@ -766,6 +767,7 @@
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0137-single-number-ii) |
+| [0191-number-of-1-bits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0287-find-the-duplicate-number) |
