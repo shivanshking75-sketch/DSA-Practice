@@ -220,6 +220,7 @@
 | [0414-third-maximum-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0417-pacific-atlantic-water-flow) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0447-number-of-boomerangs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0447-number-of-boomerangs) |
 | [0457-circular-array-loop](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0457-circular-array-loop) |
 | [0491-non-decreasing-subsequences](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0494-target-sum) |
@@ -301,6 +302,7 @@
 | [0391-perfect-rectangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0391-perfect-rectangle) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0398-random-pick-index](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0398-random-pick-index) |
+| [0447-number-of-boomerangs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0447-number-of-boomerangs) |
 | [0457-circular-array-loop](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0457-circular-array-loop) |
 | [0491-non-decreasing-subsequences](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0496-next-greater-element-i) |
@@ -469,6 +471,7 @@
 | [0398-random-pick-index](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0398-random-pick-index) |
 | [0400-nth-digit](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0400-nth-digit) |
 | [0445-add-two-numbers-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
+| [0447-number-of-boomerangs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0447-number-of-boomerangs) |
 | [0479-largest-palindrome-product](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0483-smallest-good-base) |
 | [0492-construct-the-rectangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0492-construct-the-rectangle) |
