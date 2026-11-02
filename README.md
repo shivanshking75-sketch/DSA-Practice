@@ -157,6 +157,7 @@
 | [0352-data-stream-as-disjoint-intervals](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0355-design-twitter) |
 | [0449-serialize-and-deserialize-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
+| [0911-online-election](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0911-online-election) |
 ## Binary Tree
 |  |
 | ------- |
@@ -257,6 +258,7 @@
 | [0794-valid-tic-tac-toe-state](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0794-valid-tic-tac-toe-state) |
 | [0835-image-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0875-koko-eating-bananas) |
+| [0911-online-election](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0911-online-election) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0978-longest-turbulent-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -329,6 +331,7 @@
 | [0692-top-k-frequent-words](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0697-degree-of-an-array) |
 | [0791-custom-sort-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0791-custom-sort-string) |
+| [0911-online-election](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0911-online-election) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1345-jump-game-iv](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -368,6 +371,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0875-koko-eating-bananas](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0875-koko-eating-bananas) |
+| [0911-online-election](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0911-online-election) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1539-kth-missing-positive-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
