@@ -251,6 +251,7 @@
 | [0697-degree-of-an-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0697-degree-of-an-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0704-binary-search) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0794-valid-tic-tac-toe-state](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0794-valid-tic-tac-toe-state) |
 | [0835-image-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0875-koko-eating-bananas) |
@@ -362,6 +363,7 @@
 | [0633-sum-of-square-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0704-binary-search) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0875-koko-eating-bananas](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -568,6 +570,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0692-top-k-frequent-words) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0791-custom-sort-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0791-custom-sort-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
@@ -657,6 +660,7 @@
 | [0647-palindromic-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0647-palindromic-substrings) |
 | [0658-find-k-closest-elements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0696-count-binary-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0696-count-binary-substrings) |
+| [0719-find-k-th-smallest-pair-distance](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Combinatorics
