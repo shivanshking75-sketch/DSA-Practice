@@ -236,6 +236,7 @@
 | [0496-next-greater-element-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0498-diagonal-traverse](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0498-diagonal-traverse) |
+| [0518-coin-change-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0518-coin-change-ii) |
 | [0528-random-pick-with-weight](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0528-random-pick-with-weight) |
 | [0529-minesweeper](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0529-minesweeper) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
@@ -444,6 +445,7 @@
 | [0488-zuma-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0488-zuma-game) |
 | [0494-target-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0518-coin-change-ii) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0647-palindromic-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
@@ -895,10 +897,12 @@
 | ------- |
 | [0322-coin-change](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0494-target-sum) |
+| [0518-coin-change-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0518-coin-change-ii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
