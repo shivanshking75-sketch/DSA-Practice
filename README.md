@@ -230,6 +230,7 @@
 | [0447-number-of-boomerangs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0447-number-of-boomerangs) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0457-circular-array-loop) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0491-non-decreasing-subsequences](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0496-next-greater-element-i) |
@@ -484,6 +485,7 @@
 | [0400-nth-digit](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0400-nth-digit) |
 | [0445-add-two-numbers-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0447-number-of-boomerangs) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0479-largest-palindrome-product](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0483-smallest-good-base) |
 | [0492-construct-the-rectangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0492-construct-the-rectangle) |
@@ -557,6 +559,7 @@
 | [0295-find-median-from-data-stream](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0414-third-maximum-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0451-sort-characters-by-frequency) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0692-top-k-frequent-words) |
