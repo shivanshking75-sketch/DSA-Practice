@@ -244,6 +244,7 @@
 | [0529-minesweeper](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0529-minesweeper) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0565-array-nesting](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0565-array-nesting) |
+| [0575-distribute-candies](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0575-distribute-candies) |
 | [0587-erect-the-fence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0587-erect-the-fence) |
 | [0594-longest-harmonious-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0598-range-addition-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0598-range-addition-ii) |
@@ -327,6 +328,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0496-next-greater-element-i) |
 | [0508-most-frequent-subtree-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0508-most-frequent-subtree-sum) |
+| [0575-distribute-candies](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0575-distribute-candies) |
 | [0594-longest-harmonious-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0594-longest-harmonious-subsequence) |
 | [0690-employee-importance](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0692-top-k-frequent-words) |
