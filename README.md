@@ -82,6 +82,7 @@
 | [0690-employee-importance](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0690-employee-importance) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -113,6 +114,7 @@
 | [0690-employee-importance](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
+| [0872-leaf-similar-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0872-leaf-similar-trees) |
 | [1254-number-of-closed-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1306-jump-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -177,6 +179,7 @@
 | [0687-longest-univalue-path](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0687-longest-univalue-path) |
 | [0700-search-in-a-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0701-insert-into-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Array
