@@ -472,6 +472,7 @@
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0940-distinct-subsequences-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [0978-longest-turbulent-subarray](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0978-longest-turbulent-subarray) |
+| [1025-divisor-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -525,6 +526,7 @@
 | [0775-global-and-local-inversions](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0775-global-and-local-inversions) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0836-rectangle-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0836-rectangle-overlap) |
+| [1025-divisor-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -899,6 +901,7 @@
 |  |
 | ------- |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [1025-divisor-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1025-divisor-game) |
 | [1406-stone-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
@@ -1050,4 +1053,12 @@
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
