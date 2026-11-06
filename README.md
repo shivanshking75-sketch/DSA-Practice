@@ -48,6 +48,7 @@
 | [0856-score-of-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1021-remove-outermost-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1021-remove-outermost-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -273,6 +274,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0911-online-election](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0911-online-election) |
 | [0941-valid-mountain-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0941-valid-mountain-array) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0978-longest-turbulent-subarray) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -442,6 +444,7 @@
 | [0678-valid-parenthesis-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0678-valid-parenthesis-string) |
 | [0763-partition-labels](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0763-partition-labels) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0991-broken-calculator](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0991-broken-calculator) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
