@@ -524,6 +524,7 @@
 | [0445-add-two-numbers-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0447-number-of-boomerangs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0478-generate-random-point-in-a-circle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0483-smallest-good-base) |
 | [0492-construct-the-rectangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0492-construct-the-rectangle) |
@@ -670,6 +671,7 @@
 | [0149-max-points-on-a-line](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0149-max-points-on-a-line) |
 | [0223-rectangle-area](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0223-rectangle-area) |
 | [0391-perfect-rectangle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0391-perfect-rectangle) |
+| [0478-generate-random-point-in-a-circle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0478-generate-random-point-in-a-circle) |
 | [0587-erect-the-fence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0587-erect-the-fence) |
 | [0593-valid-square](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0593-valid-square) |
 | [0836-rectangle-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0836-rectangle-overlap) |
@@ -887,6 +889,7 @@
 | ------- |
 | [0382-linked-list-random-node](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0382-linked-list-random-node) |
 | [0398-random-pick-index](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0398-random-pick-index) |
+| [0478-generate-random-point-in-a-circle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0478-generate-random-point-in-a-circle) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0528-random-pick-with-weight) |
 ## Graph Theory
@@ -1079,4 +1082,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1025-divisor-game) |
+## Rejection Sampling
+|  |
+| ------- |
+| [0478-generate-random-point-in-a-circle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0478-generate-random-point-in-a-circle) |
 <!---LeetCode Topics End-->
