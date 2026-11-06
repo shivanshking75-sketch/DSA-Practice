@@ -240,6 +240,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0457-circular-array-loop](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0457-circular-array-loop) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0477-total-hamming-distance](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [0494-target-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0496-next-greater-element-i) |
@@ -524,6 +525,7 @@
 | [0445-add-two-numbers-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
 | [0447-number-of-boomerangs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0447-number-of-boomerangs) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0477-total-hamming-distance](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0477-total-hamming-distance) |
 | [0478-generate-random-point-in-a-circle](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0478-generate-random-point-in-a-circle) |
 | [0479-largest-palindrome-product](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0479-largest-palindrome-product) |
 | [0483-smallest-good-base](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0483-smallest-good-base) |
@@ -871,6 +873,7 @@
 | [0371-sum-of-two-integers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0371-sum-of-two-integers) |
 | [0393-utf-8-validation](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0393-utf-8-validation) |
 | [0397-integer-replacement](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0397-integer-replacement) |
+| [0477-total-hamming-distance](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0477-total-hamming-distance) |
 | [0491-non-decreasing-subsequences](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [0693-binary-number-with-alternating-bits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
