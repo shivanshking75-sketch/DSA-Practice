@@ -285,6 +285,7 @@
 | [1029-two-city-scheduling](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1029-two-city-scheduling) |
 | [1254-number-of-closed-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1345-jump-game-iv) |
@@ -366,6 +367,7 @@
 | [0957-prison-cells-after-n-days](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0957-prison-cells-after-n-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1027-longest-arithmetic-subsequence) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1345-jump-game-iv](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -757,6 +759,7 @@
 | [0835-image-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0835-image-overlap) |
 | [1254-number-of-closed-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -819,6 +822,7 @@
 | [0498-diagonal-traverse](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0537-complex-number-multiplication) |
 | [0592-fraction-addition-and-subtraction](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
