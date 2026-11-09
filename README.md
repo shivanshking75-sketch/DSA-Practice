@@ -294,6 +294,7 @@
 | [1425-constrained-subsequence-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
 | [1539-kth-missing-positive-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1539-kth-missing-positive-number) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
@@ -775,6 +776,7 @@
 | [0658-find-k-closest-elements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [1425-constrained-subsequence-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -823,6 +825,7 @@
 | [0537-complex-number-multiplication](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0537-complex-number-multiplication) |
 | [0592-fraction-addition-and-subtraction](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
 |  |
@@ -1021,6 +1024,7 @@
 | [0327-count-of-range-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0327-count-of-range-sum) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 ## Treap
 |  |
 | ------- |
