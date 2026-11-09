@@ -283,6 +283,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1027-longest-arithmetic-subsequence) |
 | [1029-two-city-scheduling](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1029-two-city-scheduling) |
+| [1125-smallest-sufficient-team](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1125-smallest-sufficient-team) |
 | [1254-number-of-closed-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -512,6 +513,7 @@
 | [0978-longest-turbulent-subarray](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0978-longest-turbulent-subarray) |
 | [1025-divisor-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1025-divisor-game) |
 | [1027-longest-arithmetic-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1027-longest-arithmetic-subsequence) |
+| [1125-smallest-sufficient-team](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1125-smallest-sufficient-team) |
 | [1406-stone-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1425-constrained-subsequence-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -915,6 +917,7 @@
 | [0693-binary-number-with-alternating-bits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0957-prison-cells-after-n-days](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0957-prison-cells-after-n-days) |
+| [1125-smallest-sufficient-team](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1125-smallest-sufficient-team) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -1094,6 +1097,7 @@
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [1125-smallest-sufficient-team](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1125-smallest-sufficient-team) |
 ## DP on Trees
 |  |
 | ------- |
