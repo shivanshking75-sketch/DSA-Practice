@@ -571,6 +571,7 @@
 | [0957-prison-cells-after-n-days](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0957-prison-cells-after-n-days) |
 | [0991-broken-calculator](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0991-broken-calculator) |
 | [1025-divisor-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1025-divisor-game) |
+| [1175-prime-arrangements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1175-prime-arrangements) |
 | [1406-stone-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -1062,14 +1063,17 @@
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0204-count-primes) |
+| [1175-prime-arrangements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1175-prime-arrangements) |
 ## Sieve Theory
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0204-count-primes) |
+| [1175-prime-arrangements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1175-prime-arrangements) |
 ## Prime Number Sieve
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0204-count-primes) |
+| [1175-prime-arrangements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1175-prime-arrangements) |
 ## Fermat's Little Theorem
 |  |
 | ------- |
