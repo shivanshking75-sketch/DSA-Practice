@@ -87,6 +87,7 @@
 | [0872-leaf-similar-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0951-flip-equivalent-binary-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0951-flip-equivalent-binary-trees) |
+| [1145-binary-tree-coloring-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
@@ -119,6 +120,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0872-leaf-similar-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0872-leaf-similar-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0951-flip-equivalent-binary-trees) |
+| [1145-binary-tree-coloring-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
 | [1254-number-of-closed-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1306-jump-game-iii) |
@@ -188,6 +190,7 @@
 | [0872-leaf-similar-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0872-leaf-similar-trees) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0951-flip-equivalent-binary-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0951-flip-equivalent-binary-trees) |
+| [1145-binary-tree-coloring-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Array
 |  |
