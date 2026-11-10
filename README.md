@@ -119,6 +119,7 @@
 | [0695-max-area-of-island](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0872-leaf-similar-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0872-leaf-similar-trees) |
+| [0886-possible-bipartition](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0886-possible-bipartition) |
 | [0951-flip-equivalent-binary-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [1145-binary-tree-coloring-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
 | [1254-number-of-closed-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1254-number-of-closed-islands) |
@@ -147,6 +148,7 @@
 | [0690-employee-importance](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0797-all-paths-from-source-to-target](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
+| [0886-possible-bipartition](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0886-possible-bipartition) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
@@ -877,6 +879,7 @@
 | [0399-evaluate-division](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0685-redundant-connection-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0695-max-area-of-island) |
+| [0886-possible-bipartition](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0886-possible-bipartition) |
 | [1254-number-of-closed-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -950,6 +953,7 @@
 | [0399-evaluate-division](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0399-evaluate-division) |
 | [0685-redundant-connection-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0685-redundant-connection-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
+| [0886-possible-bipartition](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0886-possible-bipartition) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Shortest Path
 |  |
@@ -1159,4 +1163,12 @@
 |  |
 | ------- |
 | [1029-two-city-scheduling](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1029-two-city-scheduling) |
+## Graph Coloring
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0886-possible-bipartition) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0886-possible-bipartition](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0886-possible-bipartition) |
 <!---LeetCode Topics End-->
