@@ -111,6 +111,7 @@
 | [0508-most-frequent-subtree-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [0529-minesweeper](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0529-minesweeper) |
 | [0538-convert-bst-to-greater-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0538-convert-bst-to-greater-tree) |
+| [0547-number-of-provinces](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0565-array-nesting](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0565-array-nesting) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0685-redundant-connection-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0685-redundant-connection-ii) |
@@ -144,6 +145,7 @@
 | [0449-serialize-and-deserialize-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0488-zuma-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0488-zuma-game) |
 | [0529-minesweeper](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0529-minesweeper) |
+| [0547-number-of-provinces](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0685-redundant-connection-ii) |
 | [0690-employee-importance](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0690-employee-importance) |
 | [0695-max-area-of-island](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0695-max-area-of-island) |
@@ -880,6 +882,7 @@
 | [0200-number-of-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0399-evaluate-division](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0685-redundant-connection-ii) |
 | [0695-max-area-of-island](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0886-possible-bipartition](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0886-possible-bipartition) |
@@ -954,6 +957,7 @@
 | ------- |
 | [0310-minimum-height-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0310-minimum-height-trees) |
 | [0399-evaluate-division](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0399-evaluate-division) |
+| [0547-number-of-provinces](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0547-number-of-provinces) |
 | [0685-redundant-connection-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0685-redundant-connection-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0886-possible-bipartition) |
