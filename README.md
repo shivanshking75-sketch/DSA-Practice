@@ -283,6 +283,7 @@
 | [0835-image-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0896-monotonic-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0896-monotonic-array) |
 | [0911-online-election](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0911-online-election) |
 | [0941-valid-mountain-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0941-valid-mountain-array) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
