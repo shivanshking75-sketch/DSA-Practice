@@ -58,6 +58,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1678-goal-parser-interpretation) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2129-capitalize-the-title](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2129-capitalize-the-title) |
 | [2409-count-days-spent-together](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -315,6 +316,7 @@
 | [1882-process-tasks-using-servers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1882-process-tasks-using-servers) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
@@ -671,6 +673,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1840-maximum-building-height](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1840-maximum-building-height) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2747-count-zero-request-servers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2747-count-zero-request-servers) |
@@ -806,6 +809,7 @@
 | [1425-constrained-subsequence-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1882-process-tasks-using-servers) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
@@ -912,6 +916,7 @@
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Merge Sort
@@ -1199,4 +1204,8 @@
 |  |
 | ------- |
 | [0956-tallest-billboard](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0956-tallest-billboard) |
+## Quickselect
+|  |
+| ------- |
+| [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 <!---LeetCode Topics End-->
