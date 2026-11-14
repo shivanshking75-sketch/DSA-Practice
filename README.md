@@ -91,6 +91,7 @@
 | [0951-flip-equivalent-binary-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [1145-binary-tree-coloring-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [1993-operations-on-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1993-operations-on-tree) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -128,6 +129,7 @@
 | [1254-number-of-closed-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1306-jump-game-iii) |
+| [1993-operations-on-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1993-operations-on-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -159,6 +161,7 @@
 | [1306-jump-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1345-jump-game-iv) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1993-operations-on-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1993-operations-on-tree) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Design
 |  |
@@ -175,6 +178,7 @@
 | [0355-design-twitter](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0355-design-twitter) |
 | [0449-serialize-and-deserialize-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0911-online-election](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0911-online-election) |
+| [1993-operations-on-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1993-operations-on-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -317,6 +321,7 @@
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [1993-operations-on-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1993-operations-on-tree) |
 | [1995-count-special-quadruplets](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1995-count-special-quadruplets) |
 | [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -393,6 +398,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [1993-operations-on-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1993-operations-on-tree) |
 | [1995-count-special-quadruplets](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1995-count-special-quadruplets) |
 | [2747-count-zero-request-servers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2784-check-if-array-is-good) |
