@@ -325,6 +325,7 @@
 | [1840-maximum-building-height](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1840-maximum-building-height) |
 | [1882-process-tasks-using-servers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1882-process-tasks-using-servers) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1992-find-all-groups-of-farmland](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1992-find-all-groups-of-farmland) |
@@ -478,6 +479,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
+| [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -560,6 +562,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
 | [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
