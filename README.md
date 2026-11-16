@@ -64,6 +64,7 @@
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2409-count-days-spent-together](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3458-select-k-disjoint-special-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -413,6 +414,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3458-select-k-disjoint-special-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -508,6 +510,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3458-select-k-disjoint-special-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -566,6 +569,7 @@
 | [1997-first-day-where-you-have-been-in-all-the-rooms](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1997-first-day-where-you-have-been-in-all-the-rooms) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3458-select-k-disjoint-special-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3665-twisted-mirror-path-count) |
@@ -703,6 +707,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2747-count-zero-request-servers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2784-check-if-array-is-good) |
+| [3458-select-k-disjoint-special-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
