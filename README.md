@@ -346,6 +346,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3457-eat-pizzas](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3457-eat-pizzas) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3524-find-x-value-of-array-i) |
@@ -510,6 +511,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3457-eat-pizzas](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3457-eat-pizzas) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -707,6 +709,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2747-count-zero-request-servers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2784-check-if-array-is-good) |
+| [3457-eat-pizzas](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3457-eat-pizzas) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3727-maximum-alternating-sum-of-squares) |
