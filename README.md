@@ -347,6 +347,7 @@
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
+| [3388-count-beautiful-splits-in-an-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3388-count-beautiful-splits-in-an-array) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3457-eat-pizzas](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3457-eat-pizzas) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -575,6 +576,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
+| [3388-count-beautiful-splits-in-an-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3388-count-beautiful-splits-in-an-array) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3524-find-x-value-of-array-i) |
