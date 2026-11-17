@@ -346,6 +346,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3364-minimum-positive-sum-subarray) |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3457-eat-pizzas](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3457-eat-pizzas) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
@@ -416,6 +417,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
