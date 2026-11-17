@@ -638,6 +638,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2409-count-days-spent-together) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3525-find-x-value-of-array-ii) |
@@ -884,6 +885,7 @@
 | [0479-largest-palindrome-product](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0479-largest-palindrome-product) |
 | [1995-count-special-quadruplets](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1995-count-special-quadruplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3886-sum-of-sortable-integers) |
 ## Simulation
