@@ -296,6 +296,7 @@
 | [0794-valid-tic-tac-toe-state](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0794-valid-tic-tac-toe-state) |
 | [0835-image-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0875-koko-eating-bananas) |
+| [0885-spiral-matrix-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0885-spiral-matrix-iii) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0896-monotonic-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0896-monotonic-array) |
 | [0911-online-election](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0911-online-election) |
@@ -835,6 +836,7 @@
 | [0695-max-area-of-island](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0695-max-area-of-island) |
 | [0794-valid-tic-tac-toe-state](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0794-valid-tic-tac-toe-state) |
 | [0835-image-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0835-image-overlap) |
+| [0885-spiral-matrix-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0885-spiral-matrix-iii) |
 | [1254-number-of-closed-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -907,6 +909,7 @@
 | [0498-diagonal-traverse](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0537-complex-number-multiplication) |
 | [0592-fraction-addition-and-subtraction](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0592-fraction-addition-and-subtraction) |
+| [0885-spiral-matrix-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0885-spiral-matrix-iii) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1945-sum-of-digits-of-string-after-convert) |
