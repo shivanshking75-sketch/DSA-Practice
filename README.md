@@ -343,6 +343,7 @@
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2784-check-if-array-is-good) |
@@ -519,6 +520,7 @@
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3457-eat-pizzas](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3457-eat-pizzas) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3458-select-k-disjoint-special-substrings) |
@@ -720,6 +722,7 @@
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2784-check-if-array-is-good) |
 | [3457-eat-pizzas](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3457-eat-pizzas) |
