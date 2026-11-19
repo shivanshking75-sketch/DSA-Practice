@@ -636,6 +636,7 @@
 | [0598-range-addition-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0598-range-addition-ii) |
 | [0633-sum-of-square-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0633-sum-of-square-numbers) |
 | [0775-global-and-local-inversions](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0775-global-and-local-inversions) |
+| [0779-k-th-symbol-in-grammar](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0779-k-th-symbol-in-grammar) |
 | [0789-escape-the-ghosts](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0789-escape-the-ghosts) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0836-rectangle-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0836-rectangle-overlap) |
@@ -898,6 +899,7 @@
 | [0390-elimination-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0390-elimination-game) |
 | [0394-decode-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0779-k-th-symbol-in-grammar) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -1013,6 +1015,7 @@
 | [0491-non-decreasing-subsequences](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0491-non-decreasing-subsequences) |
 | [0693-binary-number-with-alternating-bits](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0779-k-th-symbol-in-grammar](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0779-k-th-symbol-in-grammar) |
 | [0957-prison-cells-after-n-days](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0957-prison-cells-after-n-days) |
 | [1125-smallest-sufficient-team](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1125-smallest-sufficient-team) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
