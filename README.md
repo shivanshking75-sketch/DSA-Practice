@@ -349,6 +349,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2568-minimum-impossible-or](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2568-minimum-impossible-or) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2747-count-zero-request-servers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2784-check-if-array-is-good) |
@@ -473,6 +474,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 ## Sliding Window
 |  |
 | ------- |
@@ -528,6 +530,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3457-eat-pizzas](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3457-eat-pizzas) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3458-select-k-disjoint-special-substrings) |
@@ -733,6 +736,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2747-count-zero-request-servers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2784-check-if-array-is-good) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
@@ -827,6 +831,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2576-find-the-maximum-number-of-marked-indices](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 ## Combinatorics
 |  |
