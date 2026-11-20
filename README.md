@@ -349,6 +349,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2568-minimum-impossible-or](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2568-minimum-impossible-or) |
+| [2574-left-and-right-sum-differences](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [2576-find-the-maximum-number-of-marked-indices](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2576-find-the-maximum-number-of-marked-indices) |
 | [2747-count-zero-request-servers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -502,6 +503,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1959-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1959-minimum-total-space-wasted-with-k-resizing-operations) |
+| [2574-left-and-right-sum-differences](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3739-count-subarrays-with-majority-element-ii) |
