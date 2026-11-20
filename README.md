@@ -348,6 +348,7 @@
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
+| [2568-minimum-impossible-or](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2568-minimum-impossible-or) |
 | [2747-count-zero-request-servers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2784-check-if-array-is-good](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2784-check-if-array-is-good) |
@@ -1024,6 +1025,7 @@
 | [0779-k-th-symbol-in-grammar](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0779-k-th-symbol-in-grammar) |
 | [0957-prison-cells-after-n-days](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0957-prison-cells-after-n-days) |
 | [1125-smallest-sufficient-team](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1125-smallest-sufficient-team) |
+| [2568-minimum-impossible-or](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2568-minimum-impossible-or) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -1241,6 +1243,7 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1025-divisor-game) |
+| [2568-minimum-impossible-or](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2568-minimum-impossible-or) |
 ## Impartial Game
 |  |
 | ------- |
