@@ -98,6 +98,7 @@
 | [0897-increasing-order-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0897-increasing-order-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0965-univalued-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0968-binary-tree-cameras) |
 | [1145-binary-tree-coloring-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1993-operations-on-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1993-operations-on-tree) |
@@ -139,6 +140,7 @@
 | [0897-increasing-order-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0897-increasing-order-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0965-univalued-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0968-binary-tree-cameras) |
 | [1145-binary-tree-coloring-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
 | [1254-number-of-closed-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
@@ -223,6 +225,7 @@
 | [0897-increasing-order-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0897-increasing-order-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0965-univalued-binary-tree) |
+| [0968-binary-tree-cameras](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0968-binary-tree-cameras) |
 | [1145-binary-tree-coloring-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Array
@@ -593,6 +596,7 @@
 | [0799-champagne-tower](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0799-champagne-tower) |
 | [0940-distinct-subsequences-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0940-distinct-subsequences-ii) |
 | [0956-tallest-billboard](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0956-tallest-billboard) |
+| [0968-binary-tree-cameras](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0968-binary-tree-cameras) |
 | [0978-longest-turbulent-subarray](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0978-longest-turbulent-subarray) |
 | [1025-divisor-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1025-divisor-game) |
 | [1027-longest-arithmetic-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1027-longest-arithmetic-subsequence) |
@@ -1241,6 +1245,7 @@
 | ------- |
 | [0508-most-frequent-subtree-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0508-most-frequent-subtree-sum) |
 | [0687-longest-univalue-path](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0687-longest-univalue-path) |
+| [0968-binary-tree-cameras](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0968-binary-tree-cameras) |
 ## Bézout's Lemma
 |  |
 | ------- |
