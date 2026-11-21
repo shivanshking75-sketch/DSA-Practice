@@ -174,6 +174,7 @@
 | [0797-all-paths-from-source-to-target](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0886-possible-bipartition) |
 | [0965-univalued-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0965-univalued-binary-tree) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
@@ -699,6 +700,7 @@
 | [0494-target-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0494-target-sum) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0797-all-paths-from-source-to-target](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
+| [0967-numbers-with-same-consecutive-differences](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0967-numbers-with-same-consecutive-differences) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
