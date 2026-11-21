@@ -66,6 +66,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2911-minimum-changes-to-make-k-semi-palindromes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2911-minimum-changes-to-make-k-semi-palindromes) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -98,6 +99,7 @@
 | [1145-binary-tree-coloring-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1993-operations-on-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1993-operations-on-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
@@ -139,6 +141,7 @@
 | [1306-jump-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1992-find-all-groups-of-farmland](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1992-find-all-groups-of-farmland) |
 | [1993-operations-on-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1993-operations-on-tree) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
@@ -359,6 +362,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3364-minimum-positive-sum-subarray) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3388-count-beautiful-splits-in-an-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3388-count-beautiful-splits-in-an-array) |
@@ -432,6 +436,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3375-minimum-operations-to-make-array-values-equal-to-k](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3375-minimum-operations-to-make-array-values-equal-to-k) |
 | [3458-select-k-disjoint-special-substrings](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3458-select-k-disjoint-special-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3483-unique-3-digit-even-numbers) |
