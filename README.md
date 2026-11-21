@@ -97,6 +97,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0897-increasing-order-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0951-flip-equivalent-binary-trees) |
+| [0965-univalued-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0965-univalued-binary-tree) |
 | [1145-binary-tree-coloring-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1993-operations-on-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1993-operations-on-tree) |
@@ -137,6 +138,7 @@
 | [0886-possible-bipartition](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0886-possible-bipartition) |
 | [0897-increasing-order-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0897-increasing-order-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0951-flip-equivalent-binary-trees) |
+| [0965-univalued-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0965-univalued-binary-tree) |
 | [1145-binary-tree-coloring-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
 | [1254-number-of-closed-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
@@ -171,6 +173,7 @@
 | [0743-network-delay-time](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0797-all-paths-from-source-to-target) |
 | [0886-possible-bipartition](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0886-possible-bipartition) |
+| [0965-univalued-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0965-univalued-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
@@ -218,6 +221,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0897-increasing-order-search-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0897-increasing-order-search-tree) |
 | [0951-flip-equivalent-binary-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0951-flip-equivalent-binary-trees) |
+| [0965-univalued-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0965-univalued-binary-tree) |
 | [1145-binary-tree-coloring-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Array
