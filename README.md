@@ -321,6 +321,7 @@
 | [0835-image-overlap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [0885-spiral-matrix-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0885-spiral-matrix-iii) |
+| [0888-fair-candy-swap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0888-fair-candy-swap) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0896-monotonic-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0896-monotonic-array) |
 | [0911-online-election](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0911-online-election) |
@@ -439,6 +440,7 @@
 | [0763-partition-labels](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0791-custom-sort-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0888-fair-candy-swap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0888-fair-candy-swap) |
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0911-online-election](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0911-online-election) |
 | [0957-prison-cells-after-n-days](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0957-prison-cells-after-n-days) |
@@ -491,6 +493,7 @@
 | [0786-k-th-smallest-prime-fraction](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0793-preimage-size-of-factorial-zeroes-function](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0793-preimage-size-of-factorial-zeroes-function) |
 | [0875-koko-eating-bananas](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0888-fair-candy-swap) |
 | [0911-online-election](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0911-online-election) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1027-longest-arithmetic-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1027-longest-arithmetic-subsequence) |
@@ -758,6 +761,7 @@
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0786-k-th-smallest-prime-fraction) |
 | [0791-custom-sort-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0791-custom-sort-string) |
+| [0888-fair-candy-swap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1029-two-city-scheduling) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
