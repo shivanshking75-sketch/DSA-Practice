@@ -204,6 +204,7 @@
 | [0355-design-twitter](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0355-design-twitter) |
 | [0449-serialize-and-deserialize-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
 | [0911-online-election](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0911-online-election) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1993-operations-on-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1993-operations-on-tree) |
 ## Binary Tree
 |  |
@@ -339,6 +340,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1306-jump-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1345-jump-game-iv) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1425-constrained-subsequence-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1425-constrained-subsequence-sum) |
@@ -520,6 +522,7 @@
 | [0410-split-array-largest-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0410-split-array-largest-sum) |
 | [0497-random-point-in-non-overlapping-rectangles](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0497-random-point-in-non-overlapping-rectangles) |
 | [0528-random-pick-with-weight](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0528-random-pick-with-weight) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -679,6 +682,7 @@
 | [0991-broken-calculator](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0991-broken-calculator) |
 | [1025-divisor-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1025-divisor-game) |
 | [1175-prime-arrangements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1175-prime-arrangements) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1406-stone-game-iii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1406-stone-game-iii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -920,6 +924,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0295-find-median-from-data-stream) |
 | [0352-data-stream-as-disjoint-intervals](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0352-data-stream-as-disjoint-intervals) |
+| [1352-product-of-the-last-k-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 ## Bracket Sequences
 |  |
 | ------- |
