@@ -204,6 +204,7 @@
 | [0352-data-stream-as-disjoint-intervals](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0352-data-stream-as-disjoint-intervals) |
 | [0355-design-twitter](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0355-design-twitter) |
 | [0449-serialize-and-deserialize-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0449-serialize-and-deserialize-bst) |
+| [0705-design-hashset](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0705-design-hashset) |
 | [0911-online-election](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0911-online-election) |
 | [1352-product-of-the-last-k-numbers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1352-product-of-the-last-k-numbers) |
 | [1993-operations-on-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1993-operations-on-tree) |
@@ -315,6 +316,7 @@
 | [0697-degree-of-an-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0697-degree-of-an-array) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0704-binary-search](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0705-design-hashset) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0775-global-and-local-inversions](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0775-global-and-local-inversions) |
 | [0786-k-th-smallest-prime-fraction](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0786-k-th-smallest-prime-fraction) |
@@ -441,6 +443,7 @@
 | [0690-employee-importance](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0690-employee-importance) |
 | [0692-top-k-frequent-words](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0692-top-k-frequent-words) |
 | [0697-degree-of-an-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0697-degree-of-an-array) |
+| [0705-design-hashset](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0705-design-hashset) |
 | [0763-partition-labels](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0763-partition-labels) |
 | [0791-custom-sort-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0791-custom-sort-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -822,6 +825,7 @@
 | ------- |
 | [0214-shortest-palindrome](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0214-shortest-palindrome) |
 | [0336-palindrome-pairs](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0336-palindrome-pairs) |
+| [0705-design-hashset](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0705-design-hashset) |
 ## Manacher
 |  |
 | ------- |
@@ -1228,6 +1232,7 @@
 | [0355-design-twitter](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0355-design-twitter) |
 | [0382-linked-list-random-node](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0382-linked-list-random-node) |
 | [0445-add-two-numbers-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0445-add-two-numbers-ii) |
+| [0705-design-hashset](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0705-design-hashset) |
 ## Sweep Line
 |  |
 | ------- |
