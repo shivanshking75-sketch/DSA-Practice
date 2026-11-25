@@ -104,6 +104,7 @@
 | [0951-flip-equivalent-binary-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1145-binary-tree-coloring-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1993-operations-on-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1993-operations-on-tree) |
@@ -146,6 +147,7 @@
 | [0951-flip-equivalent-binary-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1145-binary-tree-coloring-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
 | [1254-number-of-closed-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
@@ -182,6 +184,7 @@
 | [0886-possible-bipartition](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0886-possible-bipartition) |
 | [0965-univalued-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0965-univalued-binary-tree) |
 | [0967-numbers-with-same-consecutive-differences](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0967-numbers-with-same-consecutive-differences) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1254-number-of-closed-islands](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1267-count-servers-that-communicate) |
@@ -234,6 +237,7 @@
 | [0951-flip-equivalent-binary-trees](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0951-flip-equivalent-binary-trees) |
 | [0965-univalued-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0965-univalued-binary-tree) |
 | [0968-binary-tree-cameras](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0968-binary-tree-cameras) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1145-binary-tree-coloring-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1145-binary-tree-coloring-game) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Array
@@ -453,6 +457,7 @@
 | [0889-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0889-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0911-online-election](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0911-online-election) |
 | [0957-prison-cells-after-n-days](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0957-prison-cells-after-n-days) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1027-longest-arithmetic-subsequence](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1027-longest-arithmetic-subsequence) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -778,6 +783,7 @@
 | [0791-custom-sort-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0791-custom-sort-string) |
 | [0888-fair-candy-swap](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0888-fair-candy-swap) |
 | [0977-squares-of-a-sorted-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0977-squares-of-a-sorted-array) |
+| [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1029-two-city-scheduling](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1029-two-city-scheduling) |
 | [1096-brace-expansion-ii](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1096-brace-expansion-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1385-find-the-distance-value-between-two-arrays) |
