@@ -1367,4 +1367,8 @@
 |  |
 | ------- |
 | [3934-smallest-unique-subarray](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3934-smallest-unique-subarray) |
+## Database
+|  |
+| ------- |
+| [1978-employees-whose-manager-left-the-company](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
