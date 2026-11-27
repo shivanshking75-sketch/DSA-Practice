@@ -381,6 +381,7 @@
 | [2202-maximize-the-topmost-element-after-k-moves](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2202-maximize-the-topmost-element-after-k-moves) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2549-count-distinct-numbers-on-board](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2549-count-distinct-numbers-on-board) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2568-minimum-impossible-or](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2568-minimum-impossible-or) |
 | [2574-left-and-right-sum-differences](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2574-left-and-right-sum-differences) |
@@ -470,6 +471,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1993-operations-on-tree](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1993-operations-on-tree) |
 | [1995-count-special-quadruplets](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1995-count-special-quadruplets) |
+| [2549-count-distinct-numbers-on-board](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2549-count-distinct-numbers-on-board) |
 | [2747-count-zero-request-servers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2747-count-zero-request-servers) |
 | [2784-check-if-array-is-good](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2784-check-if-array-is-good) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -719,6 +721,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2409-count-days-spent-together) |
+| [2549-count-distinct-numbers-on-board](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2549-count-distinct-numbers-on-board) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3411-maximum-subarray-with-equal-products) |
@@ -1012,6 +1015,7 @@
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2549-count-distinct-numbers-on-board](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/2549-count-distinct-numbers-on-board) |
 | [3360-stone-removal-game](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/shivanshking75-sketch/DSA-Practice/tree/master/3498-reverse-degree-of-a-string) |
 ## Segment Tree
